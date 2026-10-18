@@ -1,0 +1,12 @@
+[
+  { "orderId": 1, "customerId": 1, "productId": 1, "quantity": 1 },
+  { "orderId": 2, "customerId": 2, "productId": 5, "quantity": 2 },
+  { "orderId": 3, "customerId": 3, "productId": 8, "quantity": 5 },
+  { "orderId": 4, "customerId": 4, "productId": 23, "quantity": 1 },
+  { "orderId": 5, "customerId": 5, "productId": 41, "quantity": 1 },
+  { "orderId": 6, "customerId": 6, "productId": 70, "quantity": 2 },
+  { "orderId": 7, "customerId": 7, "productId": 33, "quantity": 3 },
+  { "orderId": 8, "customerId": 8, "productId": 12, "quantity": 1 },
+  { "orderId": 9, "customerId": 9, "productId": 44, "quantity": 1 },
+  { "orderId": 10, "customerId": 10, "productId": 3, "quantity": 2 }
+]
